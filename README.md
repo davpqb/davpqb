@@ -1,6 +1,6 @@
-# Hi, I'm Davis 👋
+# Hey, It's Davis 👋
 
-First-generation, bilingual (Spanish/English) Computer Science student at the **University of Maryland, Baltimore County**, with hands-on experience across radar systems, full-stack development, and cybersecurity.
+I am a first-generation, bilingual (Spanish/English) Computer Science student at the **University of Maryland, Baltimore County**, with hands-on experience across radar systems, full-stack development, and cybersecurity.
 
 - 🎓 Currently: Computer Science, UMBC — Anticipated Dec 2027
 - 🔐 Active DoD Secret Clearance
@@ -9,7 +9,7 @@ First-generation, bilingual (Spanish/English) Computer Science student at the **
 
 ---
 
-### What I've been up to
+### What have I been up to?
 
 **🛰️ SAR Imaging Toolkit — Northrop Grumman**
 Recreated Mathcad's polar coordinate math logic for Synthetic Aperture Radar applications as a Python/Jupyter notebook (SymPy, Matplotlib), translating derivations within 0.000006s tolerance and cutting model runtime by ~90%.
