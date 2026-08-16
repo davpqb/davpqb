@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Davis 👋
 
-<!--
-**davpqb/davpqb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-generation, bilingual (Spanish/English) Computer Science student at the **University of Maryland, Baltimore County**, with hands-on experience across radar systems, full-stack development, and cybersecurity.
 
-Here are some ideas to get you started:
+- 🎓 Currently: Computer Science, UMBC — Anticipated Dec 2027
+- 🔐 Active DoD Secret Clearance
+- 💻 Previously: Software Engineering Intern @ Northrop Grumman, For Students by Students LLC; building radar & EdTech software. 
+- 🎮 Development Leader on a 4-person team building original content for GraalOnline Era
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I've been up to
+
+**🛰️ SAR Imaging Toolkit — Northrop Grumman**
+Recreated Mathcad's polar coordinate math logic for Synthetic Aperture Radar applications as a Python/Jupyter notebook (SymPy, Matplotlib), translating derivations within 0.000006s tolerance and cutting model runtime by ~90%.
+
+**📚 EdTech Referral System — For Students by Students LLC**
+Built end-to-end referral logic (Java SpringBoot + GraphQL, VueJS/Apollo Client) for an EdTech LMS, including changes to the platform's core data pipeline.
+
+**🎮 [GraalOnline Era — Custom Levels](https://github.com/davpqb/graalonline-era-levels)**
+Led a team of 4 designing six original levels — scripting (GScript), graphics, sound, and animation. (In partnership with official game staff.)
+
+---
+
+### Tech I work with
+
+**Languages:** Java · Python · C++ · MySQL · Luau · HTML
+**Frameworks:** SpringBoot · GraphQL · VueJS · React · NodeJS · Jupyter
+**Tools:** Docker · Git · Jira · Wireshark · Nmap
+
+---
+
+📫 Reach me: davisrodriguez2006@gmail.com | Silver Spring, MD
