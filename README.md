@@ -18,7 +18,7 @@ Recreated Mathcad's polar coordinate math logic for Synthetic Aperture Radar app
 Built end-to-end referral logic (Java SpringBoot + GraphQL, VueJS/Apollo Client) for an EdTech LMS, including changes to the platform's core data pipeline.
 
 **🎮 [GraalOnline Era — Custom Levels](https://github.com/davpqb/graalonline-era-levels)**
-Led a team of 4 designing six original levels. Scripting (GScript), graphics, sound, and animation. (In partnership with official game staff.)
+Led a team of 4 designing original levels. Scripting (GScript), graphics, sound, and animation. (In partnership with official game staff.)
 
 ---
 
