@@ -11,13 +11,13 @@ I am a first-generation, bilingual (Spanish/English) Computer Science student at
 
 ### What have I been up to?
 
-**SAR Imaging Toolkit — Northrop Grumman**
+**SAR Imaging Toolkit — Northrop Grumman**<br>
 Recreated Mathcad's polar coordinate math logic for Synthetic Aperture Radar applications as a Python/Jupyter notebook (SymPy, Matplotlib), translating derivations within 0.0006% tolerance and cutting model runtime by ~90%.
 
-**EdTech Referral System — For Students by Students LLC**
+**EdTech Referral System — For Students by Students LLC**<br>
 Built end-to-end referral logic (Java SpringBoot + GraphQL, VueJS/Apollo Client) for an EdTech LMS, including changes to the platform's core data pipeline.
 
-**[GraalOnline Era — Custom Levels](https://github.com/davpqb/graalonline-era-levels)**
+**[GraalOnline Era — Custom Levels](https://github.com/davpqb/graalonline-era-levels)**<br>
 Led a team of 4 designing original levels. Scripting (GScript), graphics, sound, and animation. (In partnership with official game staff.)
 
 ---
