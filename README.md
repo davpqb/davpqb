@@ -22,7 +22,7 @@ Led a team of 4 designing original levels. Scripting (GScript), graphics, sound,
 
 ---
 
-###Tech I work with
+### Tech I work with
 
 **Languages:** Java · Python · C++ · MySQL · Luau · HTML
 **Frameworks:** SpringBoot · GraphQL · VueJS · React · NodeJS · Jupyter
