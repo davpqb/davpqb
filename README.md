@@ -1,4 +1,4 @@
-# Hey, I'm Davis 🤠
+# Whatsup, I'm Davis 🤠
 
 I am a first-generation, bilingual (Spanish/English) Computer Science student at the **University of Maryland, Baltimore County**, with hands-on experience across radar systems, full-stack development, and cybersecurity.
 
@@ -11,18 +11,18 @@ I am a first-generation, bilingual (Spanish/English) Computer Science student at
 
 ### What have I been up to?
 
-**🛰️ SAR Imaging Toolkit — Northrop Grumman**
+**SAR Imaging Toolkit — Northrop Grumman**
 Recreated Mathcad's polar coordinate math logic for Synthetic Aperture Radar applications as a Python/Jupyter notebook (SymPy, Matplotlib), translating derivations within 0.0006% tolerance and cutting model runtime by ~90%.
 
-**📚 EdTech Referral System — For Students by Students LLC**
+**EdTech Referral System — For Students by Students LLC**
 Built end-to-end referral logic (Java SpringBoot + GraphQL, VueJS/Apollo Client) for an EdTech LMS, including changes to the platform's core data pipeline.
 
-**🎮 [GraalOnline Era — Custom Levels](https://github.com/davpqb/graalonline-era-levels)**
+**[GraalOnline Era — Custom Levels](https://github.com/davpqb/graalonline-era-levels)**
 Led a team of 4 designing original levels. Scripting (GScript), graphics, sound, and animation. (In partnership with official game staff.)
 
 ---
 
-### Tech I work with
+###Tech I work with
 
 **Languages:** Java · Python · C++ · MySQL · Luau · HTML
 **Frameworks:** SpringBoot · GraphQL · VueJS · React · NodeJS · Jupyter
