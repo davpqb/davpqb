@@ -1,4 +1,4 @@
-# Whatsup, I'm Davis 🤠
+# Hey, I'm Davis 🤠
 
 I am a first-generation, bilingual (Spanish/English) Computer Science student at the **University of Maryland, Baltimore County**, with hands-on experience across radar systems, full-stack development, and cybersecurity.
 
